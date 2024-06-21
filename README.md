@@ -1,5 +1,3 @@
-Here's the reformatted README content for better presentation on GitHub:
-
 ---
 
 # Pixel Adventure
