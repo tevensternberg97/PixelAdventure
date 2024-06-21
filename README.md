@@ -52,7 +52,7 @@
 5. **Run the Game**
    - With the dependencies installed, start the game by running `main.py`:
      ```sh
-     python src/main.py
+     python src/menu.py
      ```
 
 ## Folder Structure
